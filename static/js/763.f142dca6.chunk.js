@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktf_react_chester=self.webpackChunktf_react_chester||[]).push([[763],{1763:function(e,t,c){e.exports=c.p+"static/media/trending-designs-in-2020.e0e3b9643e21cfdcff14.md"}}]);
